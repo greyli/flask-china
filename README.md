@@ -10,7 +10,7 @@
 
 ## 创建Issue
 
-如果经过以上步骤后还没有解决问题，请在本仓库创建Issue。
+如果经过以上步骤后还没有解决问题，请在本仓库[创建Issue](https://github.com/greyli/flask-china/issues/new)。
 
 创建Issue时请按照Issue内的模板填写，应该尽量包括下面的内容：
 
