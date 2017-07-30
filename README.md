@@ -22,6 +22,6 @@
 
 ## 参与进来
 
-我希望这个仓库能够发挥一个论坛的作用。请大家点击右上方的Watch按钮，
+我希望这个仓库能够发挥一个论坛的作用。请大家点击[Watch](https://github.com/greyli/flask-china/subscription)按钮，
 以便及时的参与到讨论中来。如果你想要分享关于Flask的Tips和经验，
 可以创建[Wiki](https://github.com/greyli/flask-china/wiki)。
